@@ -1,0 +1,30 @@
+{
+    "city": "重庆",
+    "data": {
+        "weather": [{
+            "spell": "xue",
+            "name": "雪",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/icon/17.png"
+        }, {
+            "spell": "wu",
+            "name": "雾",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/bigicon/4.png"
+        }, {
+            "spell": "yun",
+            "name": "多云",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/icon/5.png"
+        }, {
+            "spell": "yu",
+            "name": "雨",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/icon/8.png"
+        }, {
+            "spell": "yin",
+            "name":"阴",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/icon/3.png"
+        }, {
+            "spell": "qing",
+            "name": "晴",
+            "img": "https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/aladdin/img/new_weath/icon/1.png"
+        }]
+    }
+}
