@@ -4,7 +4,7 @@
           <div class="header-home">首页</div>
           <div class="header-location">
               <span class="iconfont">&#xe611;</span>
-              <div>重庆</div>
+              <div>{{city}}</div>
           </div>
         </div>
     </div>
@@ -12,7 +12,10 @@
 
 <script>
 export default {
-  name: 'homeHeader'
+  name: 'homeHeader',
+  props: {
+    city: String
+  }
 }
 </script>
 
