@@ -1,0 +1,10 @@
+{
+    "city": "重庆",
+    "data": {
+        "temperature": {
+            "id": "001",
+            "now": "6°",
+            "weather": "sunny"
+        }
+    }
+}
